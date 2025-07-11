@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajatpal96
 - 👀 I’m interested in building highly scalable applications
 - 🌱 I’m currently working as a Senior Backend Engineer 
-- 💞️ I’m looking to collaborate on ... an open-source application
+- 💞️ I’m looking to collaborate on ... open-source applications
 - 📫 How to reach me ... rajatkokila96@gmail.com
 
 <!---
